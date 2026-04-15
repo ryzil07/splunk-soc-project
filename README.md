@@ -27,9 +27,9 @@ This project demonstrates a basic Security Operations Center (SOC) workflow usin
 ## Screenshots
 
 ### Logs Analysis
-![Logs](logs.png)
+![Logs](logs)
 
 ### Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](dashboard)
 
 

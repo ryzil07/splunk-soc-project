@@ -26,10 +26,10 @@ This project demonstrates a basic Security Operations Center (SOC) workflow usin
 
 ## Screenshots
 
-### Logs Analysis
-![Logs](logs)
+### Failed Login Events
+![Failed Login Events](./failed-logins.png)
 
-### Dashboard
-![Dashboard](dashboard)
+### SOC Dashboard Visualization
+![SOC Dashboard](./dashboard.png)
 
 
